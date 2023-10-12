@@ -9,14 +9,14 @@
 🙇https://raw.githubusercontent.com/577fkj/mimotion/main/main.py
 ### 前言
     * 📝一次对BoxJS持久化的尝试
-    * 🔗使用脚本前请先添加本脚本的BoxJS订阅 ➡️ https://raw.githubusercontent.com/Yuheng0101/X/main/Tasks/boxjs.json
+    * 🔗使用脚本前请先添加本脚本的BoxJS订阅 ➡️ https://raw.githubusercontent.com/8457yin/X-1/main/Tasks/boxjs.json
     * 🔍一次对工具网络请求的调试(仅对Quantumult X可阻止重定向, 其他代理工具请自测, 亦或私信我告知其阻止重定向的方法)
     * 📌使用脚本前请先配置好小米账号(手机号)和密码
     * ⚠️ 脚本使用与作者无关，切勿将其用于商业用途❌，转载请注明出处✔️
 ```js
 [task_local]
 # 小米刷步
-33 8 * * * https://raw.githubusercontent.com/Yuheng0101/X/main/Tasks/mi/step.js, tag=小米刷步, img-url=https://raw.githubusercontent.com/Yuheng0101/X/main/Tasks/mi/color.png, enabled=true
+33 8 * * * https://raw.githubusercontent.com/8457yin/X-1/main/Tasks/mi/step.js, tag=小米刷步, img-url=https://raw.githubusercontent.com/Yuheng0101/X/main/Tasks/mi/color.png, enabled=true
 ```
 ******************************************/
 var $ = new Env('小米刷步🚶‍'),
