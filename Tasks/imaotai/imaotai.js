@@ -12,7 +12,7 @@
 hostname = app.moutai519.com.cn
 
 [rewrite_local]
-https://app.moutai519.com.cn/xhr/front/user/info url script-response-body https://raw.githubusercontent.com/Yuheng0101/X/main/Tasks/imaotai/imaotai.js
+https://app.moutai519.com.cn/xhr/front/user/info url script-response-body https://raw.githubusercontent.com/8457yin/X-1/main/Tasks/imaotai/imaotai.js
 
 [task_local]
 # 茅台自动预约
